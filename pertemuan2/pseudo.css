@@ -5,7 +5,7 @@
 .hello:hover{
   color: green;
   font-family: arial;
-  font-size: 20px;
+  font-size: 40px;
 }
 .hello:active{
   font-style: italic;
